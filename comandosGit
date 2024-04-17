@@ -1,0 +1,7 @@
+git init - Inicializar un repositor 
+git status - para revisar el estado de repositorio.
+git add - preparar los archivos antes de hacer comandos commit
+git commit -m -para realizar el versionamiento del codigo.   
+git remote -v ver su repositorio remoto
+git log -ver las versiones
+git reset--hard - recuperar codigolog

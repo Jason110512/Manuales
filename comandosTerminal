@@ -1,0 +1,7 @@
+ls - enlistar archivos
+cd -canbiar de directorio
+touch-crear archivo
+mkdir - crear carpeta
+cd .. -regresar carpeta anterior
+cat - visualizar el archivo
+code. abrir la capeta en vsc
